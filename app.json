@@ -1,0 +1,22 @@
+{
+  "name": "Pixaera Posts Management",
+  "description": "Pixaera Posts Management",
+  "repository": "https://github.com/leosuncin/nest-auth-example",
+  "keywords": [
+    "node",
+    "nestjs",
+    "passport",
+    "typescript",
+    "postgresql",
+    "authentication"
+  ],
+  "env": {
+    "APP_SECRET": {
+      "description": "A secret key for verifying the integrity of JWT.",
+      "generator": "secret"
+    }
+  },
+  "scripts": {
+    "postdeploy": "npm run migration:run"
+  }
+}

@@ -1,6 +1,6 @@
-Pixaera / Posts Management <BR/>
+<H2>Pixaera / Posts Management <BR/></H2>
 
-Technology Stack :<BR/>
+<h3>Technology Stack :</h3><BR/>
 -Node <BR/>
 -NestJS<BR/>
 -Express-platform <BR/>

@@ -1,9 +1,11 @@
 Pixaera / Posts Management 
 
 Technology Stack :
-
+##########
 -Node 
+############
 -NestJS
+##############
 -Express-platform 
 -Passport 
 -Typeorm
